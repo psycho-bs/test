@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Partners Italia","/help","Addo you server /add"];
+const statusMessages = ["Partners Italia","/help","Add you server /add"];
 
 
 let currentIndex = 0;
